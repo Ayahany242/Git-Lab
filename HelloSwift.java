@@ -1,7 +1,7 @@
 public class HelloWorld{
 
 	public void printHelloWorld(){
-		System.out.println(HelloWorld);
+		System.out.println(Hello swift);
 		
 	}
 
